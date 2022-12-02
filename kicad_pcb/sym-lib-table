@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "UTI-DIL16")(type "KiCad")(uri "${KIPRJMOD}/UTI-DIL16.kicad_sym")(options "")(descr ""))
+  (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/teensy.kicad_sym")(options "")(descr ""))
+  (lib (name "CapLevelSensorLib")(type "KiCad")(uri "${KIPRJMOD}/CapLevelSensorLib.kicad_sym")(options "")(descr ""))
+)

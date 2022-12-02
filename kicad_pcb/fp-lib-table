@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "CapLevelSensorAD")(type "KiCad")(uri "${KIPRJMOD}/CapLevelSensorAD.pretty")(options "")(descr ""))
+  (lib (name "UTI-Teensy")(type "KiCad")(uri "C:/Users/luitz/Documents/KiCAD/UTI-Teensy/UTI-Teensy")(options "")(descr ""))
+  (lib (name "MeanWell-DC-DC")(type "KiCad")(uri "${KIPRJMOD}/MeanWell-DC-DC")(options "")(descr ""))
+  (lib (name "ScrewTerminals")(type "KiCad")(uri "${KIPRJMOD}/ScrewTerminals")(options "")(descr ""))
+  (lib (name "SMD-Fuse")(type "KiCad")(uri "${KIPRJMOD}/SMD-Fuse")(options "")(descr ""))
+)
