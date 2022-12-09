@@ -215,6 +215,12 @@ void pin_isr() {
 }
 
 void setup() {
+  // Blink the LED a few times!
+  for(unsigned i = 0; i < 5; i++) {
+    LEDBlink();
+    delay(500);
+  }
+
   // Initialise the serial
   Serial.begin(115200);
   Serial.println("Serial initialized");
